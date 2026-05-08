@@ -1,0 +1,22 @@
+# Cursor Rules (Root Adapter)
+
+Project AI harness lives in `/ai`.
+
+## Must-do
+- Start at `ai/MEMORY.md`.
+- Follow the selected workflow prompt in `ai/prompts/`.
+- Keep edits small and reversible.
+- Verify before finalizing.
+- Update harness docs after meaningful work.
+
+## Must-not
+- No broad refactors without explicit user request.
+- No technology assumptions not present in repo/docs.
+- No "done" claims without verification evidence.
+
+## Completion checklist
+- [ ] Changes implemented
+- [ ] Verification executed
+- [ ] `ai/logs/SESSION_LOG.md` updated
+- [ ] `ai/logs/CHANGELOG_AI.md` updated if needed
+- [ ] Relevant `/ai` knowledge files updated
